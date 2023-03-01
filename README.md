@@ -162,7 +162,7 @@ mkdir Assignment: creates a new directory named "Assignment".
 touch Assignment/File1.txt: creates a new file named "File1.txt" inside the "Assignment" directory.
 cat Table.sh >> Assignment/File1.txt: appends the contents of a file named "Table.sh" to the end of the "File1.txt" file.
 echo " Welcome to Sigmoid" >> Assignment/File1.txt: appends the text "Welcome to Sigmoid" (with two leading spaces) to the end of the "File1.txt" file.
-ls -l ~/Desktop: lists the contents of the Desktop directory in long format, showing detailed information about each file and directory. The tilde character (~) represents the current user's home directory.
+ls -l ```~```/Desktop : lists the contents of the Desktop directory in long format, showing detailed information about each file and directory. The tilde character ```(~)``` represents the current user's home directory.
 
 
 
